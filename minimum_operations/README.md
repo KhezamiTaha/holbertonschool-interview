@@ -126,5 +126,5 @@ The function `minOperations(n)` works by finding the prime factors of `n`. Each 
 
 ## Author
 This project is part of the Holberton School curriculum. For more information, visit [Holberton School](https://www.holbertonschool.com)
-[Erwan2072](https://github.com/Erwan2072/holbertonschool-interview).
+[Khezami Taha](https://github.com/KhezamiTaha).
 
