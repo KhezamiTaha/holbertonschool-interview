@@ -63,6 +63,5 @@ log_parsing/
 ```
 
 ## Author
-- **Alexa Orrico**, Software Engineer at Holberton School
-- **Erwan Lebreton** Students Holberton School
+- **Taha Khezami** Students Holberton School
 
